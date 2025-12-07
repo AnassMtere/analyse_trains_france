@@ -1,7 +1,8 @@
 # **Analyse de la Régularité des Trains en France**
 
 ## 📊 **Contexte du Projet**
-Ce projet analyse les données de régularité des trains en France pour comprendre les causes des retards et identifier des axes d'amélioration. L'analyse couvre la période 2015-2020 .
+Ce projet analyse les données de régularité des trains en France pour comprendre les causes des retards et identifier des axes d'amélioration. L'analyse couvre la période 2015-2020 . <img width="1800" height="379" alt="image" src="https://github.com/user-attachments/assets/2c9601c7-6207-4459-a016-0b20b99deb9d" />
+
 
 ## 🎯 **Objectifs**
 - Identifier les liaisons les plus problématiques
